@@ -41,3 +41,9 @@ main{
 .project-card p{
   font-size: 14px;
 }
+.search-input {
+  padding: 8px;
+  margin-bottom: 16px;
+  width: 250px;
+  font-size: 14px;
+}

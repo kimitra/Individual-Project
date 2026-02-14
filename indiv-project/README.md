@@ -13,3 +13,14 @@ npm run dev
 -ProjectCard
 -Home Page
 -Projects Page
+
+##Progress update (Checkpoint 2)
+-Implemented project search feature
+-Users can search for specific projects
+-Improves usability by filtering to relevant work if needed
+-Still in Progress:
+-Category filters
+-Grid/List view
+-Expandable project Details
+-Dark mode
+-Replacing placeholders with actual projects
