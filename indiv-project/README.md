@@ -23,4 +23,3 @@ npm run dev
 -Grid/List view
 -Expandable project Details
 -Dark mode
--Replacing placeholders with actual projects
